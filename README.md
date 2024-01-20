@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fafnir</h1>
-<h3 align="center">A Java developer from Bangladesh!</h3>
+<h3 align="center">And I love developing shit!</h3>
 
 - 🔭 I’m currently working on **Beef**
 
