@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="250" src="https://cdn.discordapp.com/attachments/971806693707108382/1200460591337308271/image_1_1.jpg?ex=65c6430c&is=65b3ce0c&hm=85855ff1f300cee626210a310200a1d2dae16cbad205e55c618c1c2300bbe430&"  />
+<img align="right" height="250" src="https://media.discordapp.net/attachments/971806693707108382/1200473323755286624/image_1.jpg?ex=65c64ee8&is=65b3d9e8&hm=907a0e79a7036ac0afd173a2dd7dace6916a6f0f570a61a963a9c560348ebf8c&=&format=webp&width=459&height=459"  />
 
 ###
 
