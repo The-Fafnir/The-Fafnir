@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Fafnir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Fafnir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/971806693707108382/1200460591337308271/image_1_1.jpg?ex=65c6430c&is=65b3ce0c&hm=85855ff1f300cee626210a310200a1d2dae16cbad205e55c618c1c2300bbe430&"  />
 
 ###
